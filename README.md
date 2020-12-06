@@ -1,5 +1,5 @@
 <h3 align="center">Hi there 👋, thanks for visiting my profile! </br>
-I'm Tim - a passionate junior developer based in The Netherlands </h3>
+I'm Tim - a junior developer based in The Netherlands </h3>
 
 Since 2020 I decided to follow my passion for computer technology and start a coding career. 
 I had just finished a master in Law and Technology, but during my studies I'd already gradually discovered that I have a lot more interest in the tech itself than in arguing about it as a lawyer... So now I'm coding and learning new things every day and really happy that I made this choice!
