@@ -45,6 +45,6 @@ If you're using a technology that is not listed, don't hestitate to reach out to
 
 My latest project is a full-stack web app to demonstrate the main skills I've learned at Codaisseur. It's made in a two-week sprint in which I developed the idea, planned the wireframes and datamodels, built the frontend with TypeScript, React & Redux and the backend with an Express server and PostgreSQL database.
 
-I made a platform called "Make a Scene" where you can create and discuss scripted conversations, and turn them into an animated scene. You can check out the website [here](https://make-a-scene.netlify.app/), or take a look at the [README](https://github.com/TdWa/make-a-scene-frontend) in the frontend repository!
+I made a platform called "Make a Scene" where you can create and discuss scripted conversations, and turn them into an animated scene. You can check out the website [here](https://make-a-scene.netlify.app/), or take a look at the [README](https://github.com/TdWa/make-a-scene-frontend) in the frontend repository for more info!
 
 [linkedin]: https://www.linkedin.com/in/timdewaard/
