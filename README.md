@@ -7,10 +7,6 @@ I had just finished a master in Law and Technology, but during my studies I'd al
 I'm about to graduate from the [Codaisseur Academy](https://codaisseur.com/courses/academy/) in Amsterdam, where I've been following an intensive full-stack web development bootcamp for the past three months. 
 I'm looking for opportunities to work as a junior developer, to apply the skills that I've learned, work on cool stuff, have fun and develop myself further as a programmer.
 
-### Connect with me:
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-📫 t.a.dewaard@gmail.com
-
 ### Languages and Tools:
 
 These are the languages and tools I've been working with the most so far. 
@@ -46,5 +42,9 @@ If you're using a technology that is not listed, don't hestitate to reach out to
 My latest project is a full-stack web app to demonstrate the main skills I've learned at Codaisseur. It's made in a two-week sprint in which I developed the idea, planned the wireframes and datamodels, built the frontend with TypeScript, React & Redux and the backend with an Express server and PostgreSQL database.
 
 I made a platform called "Make a Scene" where you can create and discuss scripted conversations, and turn them into an animated scene. You can check out the website [here](https://make-a-scene.netlify.app/), or find more info in the [README](https://github.com/TdWa/make-a-scene-frontend) of the frontend repository.
+
+### Connect with me:
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+📫 t.a.dewaard@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/timdewaard/
