@@ -1,4 +1,6 @@
 
+work in progress!
+
 ### Hi 👋, I'm Tim
 a passionate junior developer based in The Netherlands
 
@@ -10,7 +12,6 @@ I'm about to graduate from the [Codaisseur Academy]https://codaisseur.com/course
 I'm now looking for an opportunity to work as a junior developer, to apply the skills that I've learned and develop myself further as programmer.
 
 ### Connect with me:
-
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 📫 t.a.dewaard@gmail.com
 
@@ -41,8 +42,13 @@ If you're using a technology that is not listed, don't hestitate to reach out to
 
 <img align="left" alt="Styled-Components" title="Styled-Components" width="30px" src="https://avatars2.githubusercontent.com/u/20658825?s=200&v=4" />
 
+<br/>
 
 ### My latest project:
 
 https://make-a-scene.netlify.app/
+<br/>
 https://github.com/TdWa/make-a-scene-frontend
+
+
+[linkedin]: https://www.linkedin.com/in/timdewaard/
