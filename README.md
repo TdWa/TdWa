@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋, thanks for visiting my profile! </br>
 I'm Tim - a junior developer based in The Netherlands </h3>
 
-Since 2020 I decided to follow my passion for computer technology and start a coding career. 
+In 2020 I decided to follow my passion for computer technology and start a coding career. 
 I had just finished a master in Law and Technology, but during my studies I'd already gradually discovered that I have a lot more interest in the tech itself than in arguing about it as a lawyer... Now I'm coding and learning new things every day and I'm really happy that I made this choice!
 
 I'm about to graduate from the [Codaisseur Academy](https://codaisseur.com/courses/academy/) in Amsterdam, where I've been following an intensive full-stack web development bootcamp for the past three months. 
