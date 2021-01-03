@@ -24,7 +24,7 @@ If you're using a technology that is not listed, don't hestitate to reach out to
 
 <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" title="Express" width="30px" src="https://avatars1.githubusercontent.com/u/5658226?s=200&v=4" /> </a>
 
-<a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" /> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://www.postgresql.org/media/img/about/press/elephant.png" /> </a>
                                                                                                                                                      
 <a href="https://sequelize.org/" target="_blank"> <img align="left" alt="Sequelize" title="Sequelize" width="30px" src="https://avatars1.githubusercontent.com/u/3591786?s=200&v=4" /> </a>
                                                                                                               
