@@ -36,7 +36,7 @@ If you're using a technology that is not listed, don't hestitate to reach out to
 
 ### My latest project:
 
-My latest project is a full-stack web app to demonstrate the main skills I've learned at Codaisseur. It's made in a two-week sprint in which I developed the idea, planned the wireframes and datamodels, built the frontend with TypeScript, React, Redux & Styled-Components and the backend with an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM.
+My latest project is a full-stack web app to demonstrate the main skills I've learned at Codaisseur. It was made in a two-week sprint in which I developed the idea, planned the wireframes and datamodels, built the frontend with TypeScript, React, Redux & Styled-Components and the backend with an Express server, JWT & Bcrypt authentication and a PostgreSQL database with Sequelize ORM.
 
 I made a platform called "Make a Scene" where you can create and discuss scripted conversations, and turn them into an animated scene. You can check out the website [here](https://make-a-scene.netlify.app/), or find more info in the [README](https://github.com/TdWa/make-a-scene-frontend) of the frontend repository.
 
