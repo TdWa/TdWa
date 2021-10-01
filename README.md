@@ -3,7 +3,7 @@ I'm Tim - a junior developer based in The Netherlands </h3>
 
 In 2020 I decided to follow my passion for computer technology and start a coding career. I had just finished a master's in Law and Technology, but during my studies I'd discovered I have a lot more interest in tech itself than in arguing about it as a lawyer. Since then I've been coding and learning new things every day and I'm really happy that I made this choice! 
 
-After first doing a lot of online courses, studying and practicing on my own, I recently graduated from the [Codaisseur Academy](https://codaisseur.com/courses/academy/) in Amsterdam. Now I'm working as a developer (trainee) at [kaartje2go.nl](https://kaartje2go.nl).
+After first doing a lot of online courses, studying and practicing on my own, I recently graduated from the [Codaisseur Academy](https://codaisseur.com/courses/academy/) in Amsterdam. Now I'm working as a developer at [kaartje2go.nl](https://kaartje2go.nl).
 
 ### Languages and Tools:
 
