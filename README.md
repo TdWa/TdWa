@@ -40,7 +40,6 @@ My latest project is a full-stack web app to demonstrate the main skills I've le
 
 I made a platform called "Make a Scene" where you can create and discuss scripted conversations, and turn them into an animated scene. You can check out the website [here](https://make-a-scene.netlify.app/), or find more info in the [README](https://github.com/TdWa/make-a-scene-frontend) of the frontend repository.
 
-
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 📫 t.a.dewaard@gmail.com
